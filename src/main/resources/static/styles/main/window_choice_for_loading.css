@@ -1,0 +1,135 @@
+#zatemnenie {
+	background: rgba(102, 102, 102, 0.5);
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	display: none;
+}
+#okno_load_data {
+	width: 300px;
+	height: 200px;
+	text-align: center;
+	border: 1px solid black;
+
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+
+	background: white;
+	border-radius: 10px;
+	box-shadow: 0 2px 1px -1px rgb(0 0 0 / 20%), 0 1px 1px 0 rgb(0 0 0 / 14%), 0 1px 3px 0 rgb(0 0 0 / 12%);
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	display: none;
+
+	padding:20px;
+}
+#okno_analysis {
+	width: 320px;
+	height: 100px;
+	text-align: center;
+	border: 1px solid black;
+
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+
+	background: white;
+	border-radius: 10px;
+	box-shadow: 0 2px 1px -1px rgb(0 0 0 / 20%), 0 1px 1px 0 rgb(0 0 0 / 14%), 0 1px 3px 0 rgb(0 0 0 / 12%);
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	display: none;
+
+	padding:20px;
+}
+
+.buttons{
+    font-family: Open Sans,sans-serif;
+    font-size: 14px;
+    cursor: pointer;
+
+    background-color: white;
+    font-weight: 300;
+    color: black;
+    border: 2px solid #a4a6a4;
+    padding: 5px 11px 5px 11px;
+
+
+	margin-top: 18px;
+	margin: 5px;
+}
+.buttons:hover {
+       	background: #e0e0e0;
+}
+.buttons_2{
+    font-family: Open Sans,sans-serif;
+    font-size: 14px;
+    cursor: pointer;
+
+    background-color: white;
+    font-weight: 300;
+    color: black;
+    border: 2px solid #a4a6a4;
+    padding: 5px 11px 5px 11px;
+
+	margin-top: 18px;
+}
+.buttons2:hover {
+       	background: #e0e0e0;
+}
+
+#wrapper_buttons{
+    font-family: Open Sans,sans-serif;
+	font-size: 14px;
+	display: flex;
+    flex-direction: row;
+    justify-content: center;
+	align-items: center;
+    line-height: 40px;
+}
+
+#wrapper{
+    font-family: Open Sans,sans-serif;
+	font-size: 14px;
+	display: flex;
+    flex-direction: row;
+    justify-content: left;
+	align-items: left;
+    line-height: 40px;
+	
+	margin-bottom: 10px;
+}
+
+#wrapper_1{
+    font-family: Open Sans,sans-serif;
+	font-size: 14px;
+	display: flex;
+    flex-direction: column;
+    justify-content: left;
+	align-items: left;
+    line-height: 40px;
+	margin-bottom: 10px;
+}
+.date_picker{
+    font-family: Open Sans,sans-serif;
+	font-size: 14px;
+	margin-left: 10px;
+	left: 50%;
+}
