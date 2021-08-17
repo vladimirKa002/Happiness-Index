@@ -1,4 +1,4 @@
-Happiness index
+**Happiness index**
 
 This is a web application made using Java Spring Boot. The database - PostgreSQL. The stack for a website is HTML, CSS, and JavaScript.
 
