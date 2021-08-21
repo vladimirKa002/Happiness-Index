@@ -8,6 +8,8 @@ There are 2 tables in the database: one for storing data about social parameters
 
 The program was done within a hackathon organized by Innopolis University (https://innopolis.university/en/) in accordance with HSE (https://www.hse.ru/en/).
 
+Link to diploma: https://drive.google.com/file/d/1nZFozZiQGXwX7I7M8X_V11gIHfDdq_Mi/view?usp=sharing
+
 <img src="https://github.com/vladimirKa002/Happiness-Index/blob/master/Pictures/it_hack_1.PNG"/>
 <img src="https://github.com/vladimirKa002/Happiness-Index/blob/master/Pictures/it_hack_2.PNG"/>
 
